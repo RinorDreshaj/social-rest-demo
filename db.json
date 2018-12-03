@@ -32,10 +32,23 @@
         "dribbble": "https://dribbble.com/jessica",
         "available_calls": true,
         "picture": "https://picsum.photos/600/600/?image=657",
-        "description": "I believe that software is a tool which improve so many of our activities: by providing software we can open so many possibilities.
-
-        People have unique skills and competencies and software should be there to complement them: to help them performing analysis quickly, to help them visualizing ideas, to run checks and calculations for them. So, that people can focus on using their unique abilities to provide more value.
-        
-        To us, building software means to provide tools to people."
+        "description": "I believe that software is a tool which improve so many of our activities: by providing software we can open so many possibilities. People have unique skills and competencies and software should be there to complement them: to help them performing analysis quickly, to help them visualizing ideas, to run checks and calculations for them. So, that people can focus on using their unique abilities to provide more value. To us, building software means to provide tools to people.",
+        "shouts": [
+            {
+                "image": "https://picsum.photos/600/600/?image=640"
+            },
+            {
+                "image": "https://picsum.photos/600/600/?image=641"
+            },
+            {
+                "image": "https://picsum.photos/600/600/?image=642"
+            },
+            {
+                "image": "https://picsum.photos/600/600/?image=643"
+            },
+            {
+                "image": "https://picsum.photos/600/600/?image=644"
+            }
+        ]
     }
 }
